@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="torchgen logo" src="https://raw.githubusercontent.com/mbarbetti/torchgen/main/.github/images/torchgen-logo.png" width="800"/>
+  <img alt="torchgen logo" src="https://raw.githubusercontent.com/mbarbetti/torchgen/main/.github/images/torchgen-logo.png" width="600"/>
 </div>
 
 <h3 align="center">
