@@ -17,7 +17,5 @@
   -->
   <a href="https://github.com/mbarbetti/torchgen/network/members"><img alt="GitHub - Forks" src="https://badgen.net/github/forks/mbarbetti/torchgen"></a>
   <a href="https://github.com/mbarbetti/torchgen/stargazers/"><img alt="GitHub - Stars" src="https://img.shields.io/github/stars/mbarbetti/torchgen"></a>
-  <!--
-  <a href="https://zenodo.org/badge/latestdoi/451160183"><img alt="DOI" src="https://zenodo.org/badge/451160183.svg"></a>
-  -->
+  <a href="https://zenodo.org/badge/latestdoi/506190348"><img alt="DOI" src="https://zenodo.org/badge/506190348.svg"></a>
 </p>
